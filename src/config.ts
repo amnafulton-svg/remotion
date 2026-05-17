@@ -6,7 +6,7 @@
  */
 export const CONFIG = {
   // -------- Channel branding (top-left during image scenes) --------
-  channelName: "Parker Sloan",
+  channelName: "Uncover Truth",
   channelTagline: "Your Daily Briefing on World News",
 
   // -------- Background video (image scenes only) --------
